@@ -19,3 +19,4 @@ cd
 bash wt.sh root
 cd
 source ~/.bashrc
+# IF YOU WANT TO CHANGE NAME FROM root@localhost to your name then type bash wt.sh your name
